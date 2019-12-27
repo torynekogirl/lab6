@@ -1,0 +1,9 @@
+#game td {
+	padding: 20px;
+	border: 1px solid black;
+}
+
+
+.active {
+	background: red!important;
+}
